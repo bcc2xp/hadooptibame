@@ -29,3 +29,11 @@ sudo pip install requests
 - http://youtu.be/m60g0AWIcfQ
 
 
+### Recommendation System
+
+https://youtu.be/RoRixPm4XyQ
+
+https://www.youtube.com/watch?v=l0TemN7lpCs
+
+### Tableau
+https://youtu.be/JZcr23I7VPM
