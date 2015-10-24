@@ -5,7 +5,7 @@ wget https://github.com/ywchiu/hadooptibame/raw/master/Recommend/ec.tar.gz
 tar -zxvf ec.tar.gz
 
 //Install python-pip
-rpm -ivh http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
+sudo rpm -ivh http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
 sudo yum install python-pip
 
 //Install related python package
