@@ -7,6 +7,6 @@
 
 ### gedit ~/.bashrc
 
-export FLUME_HOME=/usr/local/flume
-export FLUME_CONF_DIR=$FLUME_HOME/conf
-export PATH=$PATH:$FLUME_HOME/bin
+- export FLUME_HOME=/usr/local/flume
+- export FLUME_CONF_DIR=$FLUME_HOME/conf
+- export PATH=$PATH:$FLUME_HOME/bin
