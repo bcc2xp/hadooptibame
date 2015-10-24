@@ -29,7 +29,7 @@ wget https://github.com/ywchiu/hadooptibame/raw/master/Recommend/agent.propertie
 flume-ng agent --conf-file agent.properties --name agent
 
 //Examine hdfs
-hadoop fs -cat ecout/*
+hadoop fs -cat /ecout/*
 
 //Fetch DataETL.pig
 wget https://github.com/ywchiu/hadoopscience2/raw/master/Recommend/DataETL.pig
