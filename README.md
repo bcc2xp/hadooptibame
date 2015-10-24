@@ -2,16 +2,9 @@
 ==========================
 
 ## Slides:
-https://www.slideshare.net/secret/jAXKRnPCrknokG
-
-## [實際應用] 使用Hadoop 分析 Facebook 打卡資訊
-
-- https://www.youtube.com/watch?v=FQr2nVvkLzc
-
-sudo yum install python-pip
+https://www.slideshare.net/secret/tqPBU1V64oLoQF
 
 sudo pip install requests
-
 
 ## Hadoop on cloudera 安裝步驟
 
@@ -35,8 +28,4 @@ sudo pip install requests
 
 - http://youtu.be/m60g0AWIcfQ
 
-
-## Java WordCount 操作範例
-
-- https://www.youtube.com/watch?v=h0mFQkqNo5g
 
