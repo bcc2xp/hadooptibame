@@ -1,5 +1,5 @@
 //Fetch ec.tar.gz website 
-wget https://github.com/ywchiu/hadoopscience2/raw/master/Recommend/ec.tar.gz
+wget https://github.com/ywchiu/hadooptibame/raw/master/ec.tar.gz
 
 //Untar ec.tar.gz
 tar -zxvf ec.tar.gz
