@@ -33,7 +33,6 @@ localhost
 
 ## Start hbase 
 - start-hbase.sh
-- stop-hbase.sh
 
 ## Check in browser (in your PC)
 - HBase: http://localhost:60010/master-status
