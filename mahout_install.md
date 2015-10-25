@@ -1,7 +1,7 @@
 ## Install mahout 
-- wget http://archive.apache.org/dist/mahout/0.9/mahout-distribution-0.9.tar.gz
-- tar -zxvf mahout-distribution-0.9.tar.gz
-- sudo mv mahout-distribution-0.9 /usr/local/mahout
+- wget http://ftp.twaren.net/Unix/Web/apache/mahout/0.11.0/apache-mahout-distribution-0.11.0.tar.gz
+- tar -zxvf apache-mahout-distribution-0.11.0.tar.gz
+- sudo mv apache-mahout-distribution-0.11.0.tar.gz /usr/local/mahout
 
 ## Config variables
 - vi ~/.bashrc
