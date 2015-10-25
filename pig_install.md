@@ -1,7 +1,7 @@
 ## Install Pig (@master)
 - wget http://ftp.tc.edu.tw/pub/Apache/pig/pig-0.15.0/pig-0.15.0.tar.gz
-- tar -zxvf /tmp/pig-0.15.0.tar.gz
-- mv pig-0.15.0 /usr/local/pig
+- tar -zxvf pig-0.15.0.tar.gz
+- sudo mv pig-0.15.0 /usr/local/pig
 
 ## Config variables (@master)
 
