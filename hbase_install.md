@@ -14,7 +14,7 @@ export HBASE_MANAGES_ZK=false
 - vi /usr/local/hbase/conf/hbase-site.xml
 - view hbase-site.xml (https://github.com/ywchiu/hadooptibame/blob/master/hbase-site.xml)
 
-### Create hbase folder in HDFS (@master)
+### Create hbase folder in HDFS
 - hadoop fs -mkdir /hbase
 
 ## Setup HBase slavers 
@@ -28,7 +28,7 @@ localhost
 - export PATH=$PATH:$HBASE_HOME/bin
 - source /etc/profile
 
-## Remove slf4j (bug) (@master)
+## Remove slf4j (bug)
 - rm /usr/local/hbase/lib/slf4j-log4j12-1.6.4.jar
 
 ## Start hbase 
