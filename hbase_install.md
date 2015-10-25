@@ -1,5 +1,5 @@
 ## Install HBase (@master)
-- wget http://apache.stu.edu.tw/hbase/0.98.15/hbase-0.98.15-hadoop2-bin.tar.gz
+- wget http://ftp.tc.edu.tw/pub/Apache/hbase/0.98.15/hbase-0.98.15-hadoop2-bin.tar.gz
 - tar -zxvf hbase-0.98.15-hadoop2-bin.tar.gz
 - sudo mv hbase-0.98.15-hadoop2 /usr/local/hbase
 - vi /usr/local/hbase/conf/hbase-env.sh
