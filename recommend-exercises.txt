@@ -50,11 +50,6 @@ hadoop fs -cat small_recommend/*
 hbase shell
 > create 'mydata', 'mycf'
 
-sudo service zookeeper-server restart
-sudo env JAVA_HOME=/usr/java/jdk1.7.0_67-cloudera /usr/lib/hbase/bin/hbase-daemon.sh restart regionserver
-sudo service hbase-master restart
-http://localhost:60010
-
 //Fetch Hbase Insert command
 wget https://github.com/ywchiu/hadoopscience2/raw/master/Recommend/transfer.pig
 pig transfer.pig
