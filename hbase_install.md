@@ -42,7 +42,7 @@ localhost
 - /usr/local/hbase/bin/hbase thrift start -threadpool
 
 ## Create Hbase database
-- create 'Contacts', 'Personal', 'Office¡¥
+- create 'Contacts', 'Personal', 'Office'
 - list
 - put 'Contacts', '1000', 'Personal:Name', 'John Dole'
 - put 'Contacts', '1000', 'Personal:Phone', '1-425-000-0001'
