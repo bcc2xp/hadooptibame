@@ -23,10 +23,10 @@ export HBASE_MANAGES_ZK=false
 localhost
 
 ## Config variables 
-- vi /etc/profile
+- vi ~/.bashrc
 - export HBASE_HOME=/usr/local/hbase
 - export PATH=$PATH:$HBASE_HOME/bin
-- source /etc/profile
+- source ~/.bashrc
 
 ## Remove slf4j (bug)
 - rm /usr/local/hbase/lib/slf4j-log4j12-1.6.4.jar
