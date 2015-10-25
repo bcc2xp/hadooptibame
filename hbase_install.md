@@ -1,6 +1,7 @@
-¡EInstall HBase (@master)
-- tar -zxvf hbase-0.98.13-hadoop2-bin.tar.gz
-- sudo mv hbase-0.98.13-hadoop2 /usr/local/hbase
+## Install HBase (@master)
+- wget http://apache.stu.edu.tw/hbase/0.98.15/hbase-0.98.15-hadoop2-bin.tar.gz
+- tar -zxvf hbase-0.98.15-hadoop2-bin.tar.gz
+- sudo mv hbase-0.98.15-hadoop2 /usr/local/hbase
 - vi /usr/local/hbase/conf/hbase-env.sh
 
 -- export JAVA_HOME=/usr/bin/java
