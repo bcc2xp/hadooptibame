@@ -4,13 +4,11 @@
 - sudo mv hbase-0.98.15-hadoop2 /usr/local/hbase
 - vi /usr/local/hbase/conf/hbase-env.sh
 
--- export JAVA_HOME=/usr/bin/java
-
--- export HBASE_MANAGES_ZK=false
+export HBASE_MANAGES_ZK=false
 
 
 ## Create ZooKeeper folder for Hbase (@master)
-- mkdir /home/zookeeper
+- mkdir /home/hadoop/zookeeper
 
 ### Overwrite hbase-site.xml (@master)
 - vi /usr/local/hbase/conf/hbase-site.xml

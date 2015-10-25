@@ -12,3 +12,6 @@
 
 ## Check (@master)
 - pig -version
+
+## start history server
+- sh mr-jobhistory-daemon.sh start historyserver
