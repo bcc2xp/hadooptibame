@@ -53,4 +53,4 @@ localhost
 ## Start HBase restful API
 - /usr/local/hbase/bin/hbase rest start
 - http://localhost:8080/version
-¡V http://localhost:8080/Contacts/schema
+- http://localhost:8080/Contacts/schema
