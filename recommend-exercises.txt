@@ -37,7 +37,7 @@ pig DataETL.pig
 
 //Add additional dataset
 wget https://github.com/ywchiu/hadoopscience2/raw/master/Recommend/small.csv
-hadoop fs -put small.csv  ecprocess
+hadoop fs -put small.csv  /ecprocess
 
 //Fetch recommendation script
 wget https://github.com/ywchiu/hadoopscience2/raw/master/Recommend/small-recommend.sh
