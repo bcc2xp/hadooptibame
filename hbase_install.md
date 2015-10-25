@@ -15,7 +15,7 @@ export HBASE_MANAGES_ZK=false
 - view hbase-site.xml (https://github.com/ywchiu/hadooptibame/blob/master/hbase-site.xml)
 
 ### Create hbase folder in HDFS (@master)
-¡Vhadoop fs -mkdir /hbase
+- hadoop fs -mkdir /hbase
 
 ## Setup HBase slavers (@master)
 - vi /usr/local/hbase/conf/regionservers
